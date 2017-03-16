@@ -1,10 +1,8 @@
 # Library Carpentry
 
-This repository is a set of materials for running a library carpentry workshop.  Although there are already excellent materials available for this, we are squeezing 3 workshops into one day so will be reducing slightly the amount covered in each.
+This repository is a set of materials for running a library carpentry workshop.  Although there are already excellent materials available for this, we are squeezing 3 workshops into one day so will be slightly reducing the amount covered in each.
 
-The original materials are helpfully separated into individual parts.
-
-The original materials will be linked to, and form the basis of these lessons.
+The original materials are helpfully separated into individual parts, and form the basis of these lessons.
 
 ## Single day workshop
 
@@ -18,7 +16,7 @@ Topics being covered are:
 
 Introduction to the day materials:
 
-- xxth April.  Glassbox, Taunton Library, Somerset.
+- [xxth April 2017]().  Glassbox, Taunton Library, Somerset.
 
 
 ## Lessons
