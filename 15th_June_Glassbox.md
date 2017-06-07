@@ -13,7 +13,7 @@ Schedule
 | 10:05 | 1b. Group exercise: Jargon Busting |
 | 11:00 | 1c. Teaching: Foundations |
 | 11:20 | 1d. Exercises. Working with data |
-| 11:50 | Feedback/answers |
+| 11:50 | Feedback/answers and demo |
 | 12:15pm | Lunch |
 | Workshop 2. Git |
 | 1:00pm | 2a. Presentation. Git examples and GitHub |
