@@ -1,6 +1,8 @@
 {
-    "title": "Library Carpentry",
-    "plugins": ["anchors", "swimlanes-io", "ribbon"],
+    "title": "Library Carpentry: Library Data",
+    "description": "A one day set of learning and exercises to help working with library data.",
+    "author": "Dave Rowe",
+    "plugins": ["anchors", "swimlanes-io"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true

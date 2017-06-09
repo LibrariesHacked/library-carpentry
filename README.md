@@ -1,4 +1,4 @@
-Library Carpentry.  Library Data
+Library Carpentry: Library Data
 ================================
 
 This is a set of training materials for library staff on using data.  Although there are already excellent materials from the official Library Carpentry site, we are squeezing 3 workshops into one day so will be tailoring and modifying these as well as into these materials.
