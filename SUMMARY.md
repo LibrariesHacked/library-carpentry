@@ -1,0 +1,18 @@
+# Summary
+
+* [Introduction](README.md)
+    * [Glass Box Taunton Library 2017](15th_June_Glassbox.md)
+* [Introduction to Data for Librarians](1-introduction-to-data/1a.Presentation. Data Introduction.md)
+    * [Group Exercise. Jargon Busting](1-introduction-to-data/1b.Group Exercise. Jargon Busting.md)
+    * [Teaching. Foundations](1-introduction-to-data/1c. Teaching. Foundations.md)
+    * [Exercise. Working with data](1-introduction-to-data/1d. Exercise. Working with data.md)
+    * [Answers](1-introduction-to-data/1d. Answers.md)
+* [Introduction to Git](2-introduction-to-git/2a. Introduction to Git.md)
+    * [Group Exercise. Version control](2-introduction-to-git/2b. Group Exercise. Version control.md)
+    * [Teaching. Git Foundations](2-introduction-to-git/2c. Teaching. Git Foundations.md)
+    * [Exercise. Setting up a GitHub account](2-introduction-to-git/2d. Exercise. Setting up a GitHub account.md)
+    * [Exercise. Creating a GitHub pages repository](2-introduction-to-git/2e. Exercise. Creating a GitHub pages repository.md)
+* [Everyone Loves Maps](3-everyone-loves-maps/3a. Introduction to GIS.md)
+    * [Group Exercise. Places](3-everyone-loves-maps/3b. Group Exercise.md)
+    * [Exercise. Mapping libraries](3-everyone-loves-maps/3c. Exercise. Mapping libraries.md)
+    * [Exercise. Data analysis](3-everyone-loves-maps/3d. Exercise. Data analysis.md)
