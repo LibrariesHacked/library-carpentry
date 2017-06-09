@@ -3,16 +3,15 @@
 ### The day
 
 * [Introduction](README.md)
-* [Glass Box Taunton Library 2017](events/15th-June-Glassbox.md)
+* [Glass Box Taunton Library 2017](events/15th-june-glassbox.md)
 
 ### Data Intro for Librarians
 
 * [Introduction](1-introduction-to-data/README.md)
-* [Group Exercise. Jargon Busting](1-introduction-to-data/1.1-introduction-to-data.md)
-* [Group Exercise. Jargon Busting](1-introduction-to-data/1.2-group-exercise-jargon-busting.md)
-* [Teaching. Foundations](1-introduction-to-data/1.3-teaching-foundations.md)
-* [Exercise. Working with data](1-introduction-to-data/1.4-exercise-working-with-data.md)
-* [Answers](1-introduction-to-data/1.5-answers.md)
+* [Group Exercise. Jargon Busting](1-introduction-to-data/1.1-group-exercise-jargon-busting.md)
+* [Teaching. Foundations](1-introduction-to-data/1.2-teaching-foundations.md)
+* [Exercise. Working with data](1-introduction-to-data/1.3-exercise-working-with-data.md)
+* [Answers](1-introduction-to-data/1.4-answers.md)
 
 ## Git Intro for Librarians
 
@@ -26,5 +25,6 @@
 
 * [Introduction](3-everyone-loves-maps/README.md)
 * [Group Exercise. Places](3-everyone-loves-maps/3.1-group-exercise.md)
-* [Exercise. Mapping libraries](3-everyone-loves-maps/3.2-exercise-mapping-libraries.md)
-* [Exercise. Data analysis](3-everyone-loves-maps/3.3-exercise-mapping-members.md)
+* [Teaching.  GIS.](3-everyone-loves-maps/3.2-teaching-gis.md)
+* [Exercise. Mapping libraries](3-everyone-loves-maps/3.3-exercise-mapping-libraries.md)
+* [Exercise. Mapping members](3-everyone-loves-maps/3.4-exercise-mapping-members.md)
