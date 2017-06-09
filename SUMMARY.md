@@ -2,9 +2,10 @@
 
 * [Introduction](README.md)
     * [Glass Box Taunton Library 2017](15th-June-Glassbox.md)
-* [Introduction to Data for Librarians](1-introduction-to-data/1a-presentation-data-introduction.md)
-    * [Group Exercise. Jargon Busting](1-introduction-to-data/1b.%20Group%20Exercise.%20Jargon%20Busting.md)
-    * [Teaching. Foundations](1-introduction-to-data/1c.%20Teaching.%20Foundations.md)
+* [Introduction to Data for Librarians](1-introduction-to-data/README.md)
+    * [Group Exercise. Jargon Busting](1-introduction-to-data/1a-introduction-to-data.md)
+    * [Group Exercise. Jargon Busting](1-introduction-to-data/1b-group-exercise-jargon-busting.md)
+    * [Teaching. Foundations](1-introduction-to-data/1c-teaching-foundations.md)
     * [Exercise. Working with data](1-introduction-to-data/1d.%20Exercise.%20Working%20with%20data.md)
     * [Answers](1-introduction-to-data/1e.%20Answers.md)
 * [Introduction to Git](2-introduction-to-git/2a.%20Introduction%20to%20Git.md)

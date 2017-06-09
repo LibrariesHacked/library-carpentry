@@ -1,0 +1,13 @@
+{
+    "plugins": [""],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "ribbon": {
+            "color": "orange",
+            "text": "Modify this page",
+            "url": "https://github.com"
+        }
+    }
+}
