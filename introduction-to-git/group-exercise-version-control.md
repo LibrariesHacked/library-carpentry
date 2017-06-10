@@ -20,7 +20,7 @@ Spend time in groups discussing both of the different kind of files you have at 
 - Data
 - Documents
 
-Here are some smaple talking points, though feel free to add any you feel appropriate.
+Here are some sample talking points, feel free to add any you feel appropriate.
 
 - Where are they stored?
 - How do we track changes to them?
@@ -29,7 +29,9 @@ Here are some smaple talking points, though feel free to add any you feel approp
 - How sensitive are the documents we're working on?
 - What level of control do you have over what file platform you may use?
 
-### Part B: 20 minutes
+### Part B: 10 minutes
+
+Feedback from each group about your discussions.
 
 Key Points
 ----------

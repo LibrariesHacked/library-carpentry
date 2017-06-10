@@ -7,6 +7,7 @@ Trainers
 --------
 
 **Tabitha**: Service Development Manager, Somerset Libraries.
+
 **Dave**: Systems Technician, LibrariesWest. Chief Technology Officer, CartoConsult.
 
 Schedule
@@ -16,24 +17,27 @@ Schedule
 
 | Time | Description |
 | ---- | ----------- |
-| 9:30am | Arrive, coffee and setup.  Get connected. Labels |
+| 9:30am | Arrive, tea/coffee and setup.  Get connected. Labels |
 | 9:50am | Introductions.  Housekeeping. |
 
-**WiFi**: Guest WiFi is available.  If you have a LibrariesWest account, use your library login to get connected to the Wifi.  If not, please ask us for a guest account.
+**WiFi**: Guest WiFi is available.  Once connected, if you have a LibrariesWest account, use your library login to get connected to the Wifi.  If not, please ask us for a guest account.
 
-**Labels**: Please collect a name label!  We are also encouraging people to choose a 'Data level' sticker based upon their experience with library data: beginner, novice, expert.  We'll spend some time during introductions discussing the different experiences in the room.
+**Labels**: Please collect a name label!  We are also encouraging people to choose a 'Data level' sticker based upon their experience with library data: **beginner* (maybe you don't use data much at all), *intermediate* (you use data quite a bit but want to improve), *expert* (you feel like you know your way around data quite a bit).  We'll spend some time during introductions discussing the different experiences in the room.
+
+**Breaks**: We can take a break whenever anyone needs to.  There are a lot of different sections, so there will always be oportunities to get some air or refill on tea.
 
 ### Workshop 1. Intro to Data
 
 | Time | Description |
 | ---- | ----------- |
-| 10:00am | Presentation. Introduction |
+| 10:00am | Presentation. Data introduction. |
 | 10:10am | Group exercise. Jargon Busting |
+| 10:35am | Answers. Jargon Busting |
 | 10:50am | Teaching. Foundations |
 | 11:10am | Exercises. Working with data |
 | 11:45am | Feedback/answers and demo |
 
-Around 12:10 Break for Lunch. Provided! Thanks to the British Library :-)
+Around **12:10** Break for Lunch. This is provided! Particular thanks to the British Library :-)
 
 ### Workshop 2: Intro to Git
 

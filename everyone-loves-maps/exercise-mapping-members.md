@@ -12,14 +12,7 @@ Requirements
 Downloads
 ---------
 
-- 
-
 Task
 ----
 
 In this exercise we are going to analyse library member locations, alongside some associated population statistics.
-
-Source Material
----------------
-
-Link to LH tutorial.
