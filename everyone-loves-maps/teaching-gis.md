@@ -1,22 +1,18 @@
-2a. Introduction to GIS
-=======================
+Teaching. Introduction to GIS
+=============================
 
-Requirements
-------------
-
-- None
-
-Teaching
+GIS data
 --------
 
-## GIS data
-
-#### Points, lines and polygons
+### Points, lines and polygons
 
 Typically when dealing with geo-spatial data, this will be in the form of Points, Lines, and Polygons.
-Points - Individual locations made up of a single coordinate set.
-Lines - Linear features made up of coordinates such as route lines.
-Polygons - Bounded areas (shapes) made up of coordinates such as local authority boundaries and geofences.
+
+| Data type | Description |
+| --------- | ----------- |
+| Points | Individual locations made up of a single coordinate set. |
+| Lines | Linear features made up of coordinates such as route lines. |
+| Polygons | Bounded areas (shapes) made up of coordinates such as local authority boundaries and geofences. |
 
 ### File formats
 
@@ -31,8 +27,6 @@ Demo: Geocoding a set of addresses
 
 Demo: Reverse geocooding a set of addresses
 
-
-
 ### GIS Software
 
 - Demo: adding a layer using QGIS.
@@ -45,5 +39,4 @@ Our next couple of exercises will use Carto to load some GIS data and
 Source Materials
 -----------------
 
-Everyone Loves Maps presentation 
-https://github.com/DaveBathnes/GIS-Tutorial
+At Taunton Developer Meetup, [Everyone Loves Maps presentation](https://github.com/DaveBathnes/GIS-Tutorial).

@@ -1,5 +1,5 @@
-3b. Group Exercise. Location and places in data
-===============================================
+Group Exercise. Location and places in data
+===========================================
 
 Requirements
 ------------
@@ -24,4 +24,4 @@ As an example, a physical loan of an item could include the location of the libr
 
 ### Part B: Feedback
 
-Each group will feedback and we'll discuss what data could be collected and how it could be analysed.
+Each group will feedback and we'll discuss the data we could analyse.

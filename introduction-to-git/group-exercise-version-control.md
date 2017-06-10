@@ -1,5 +1,5 @@
-2b. Group Exercise. Collaboration and version control
-======================================================
+Group Exercise. Collaboration and version control
+=================================================
 
 Requirements
 ------------

@@ -1,5 +1,5 @@
-2d. Exercise.  Setting up a GitHub account
-==========================================
+Exercise.  Setting up a GitHub account
+======================================
 
 Requirements
 ------------
@@ -12,7 +12,7 @@ Task
 
 In this task we'll ensure everyone (who wants to) sets up an account on GitHub.
 
-If you don't want to set up an account on GitHub you can follow along with the lesson but avoid completing the signup process.
+If you don't want to set up an account on GitHub you can follow along with the lesson but avoid completing the signup process. We will also be creating an account that can be shared for use in the exercises.
 
 - In a browser navigate to [https://www.github.com](https://www.github.com).
 

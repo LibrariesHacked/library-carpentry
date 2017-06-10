@@ -7,10 +7,10 @@ Requirements
 - Carto Account
 - Laptop or tablet
 - Internet
-- Data files (provided)
+- Data files (see downloads)
 
-Data
-----
+Downloads
+---------
 
 - 
 

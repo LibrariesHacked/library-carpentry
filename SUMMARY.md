@@ -3,6 +3,7 @@
 ### The day
 
 * [Introduction](README.md)
+* [Events](events/README.md)
 * [Glass Box Taunton Library](events/glassbox.md)
 
 ### Data Intro for Librarians

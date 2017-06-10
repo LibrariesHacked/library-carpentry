@@ -1,5 +1,5 @@
-2c. Teaching.  Git Foundations
-==============================
+Teaching.  Git Foundations
+==========================
 
 Requirements
 ------------
@@ -8,10 +8,6 @@ Requirements
 
 Teaching
 --------
-
-
-
-
 
 Source Materials
 ----------------

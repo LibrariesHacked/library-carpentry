@@ -1,5 +1,5 @@
-2d. Exercise.  Using GitHub
-===========================
+Exercise.  Using GitHub
+=======================
 
 Requirements
 ------------

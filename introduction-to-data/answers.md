@@ -1,5 +1,5 @@
-1d. Exercise Answers
-====================
+Exercise Answers
+================
 
 Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools.  Other spreadsheet software will have very similar functionality but will differ in some respects.
 
