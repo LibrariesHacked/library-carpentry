@@ -14,7 +14,7 @@ Downloads
 For this exercise we will be using two files.
 
 - [Libraries taskforce libraries dataset](data/taskforce.csv).  A listing of English Libraries including their address and postcode.
-- [UK Postcodes](data/postcodes.csv]).  A full list of UK postcodes, taken from 'Code Point Open', and Ordnance Survey open data product.
+- [UK postcodes](data/postcodes.csv]).  A full list of UK postcodes, taken from 'Code Point Open', an Ordnance Survey open data product.
 
 Task
 ----
