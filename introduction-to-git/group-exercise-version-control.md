@@ -11,7 +11,7 @@ Requirements
 Task
 ----
 
-To understand more about why Git and GitHub can be useful we're going to discuss how we all currently store documents and data.  Particularly where we require collaboration on those documents, including seeing when changes have been made, what they were and by who.
+To understand more about why Git and GitHub can be useful we're going to discuss how we all currently store documents and data.  Particularly where we require collaboration on those documents, including knowing when changes have been made, what they were and by who.
 
 ### Part A: 20 minutes
 

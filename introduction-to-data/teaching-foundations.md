@@ -1,7 +1,28 @@
 Teaching. Foundations
 =====================
 
-I want to spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Library Carpentry.
+Jargon Busting
+--------------
+
+| Terms | Description |
+| ----- | ----------- |
+| Dataset |  |
+| Pivot |  |
+| Data science |  |
+| Group |  |
+| Formula |  |
+| Average |  |
+| Algorithm |  |
+| Big data |  |
+| Outlier |  |
+| Open data |  |
+| Aggregation |  |
+| Anonymisation |  |
+| Regular expression |  |
+| Data mining |  |
+| Data protection |  |
+
+We'll  spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Library Carpentry.
 
 The Computer is Stupid
 ----------------------

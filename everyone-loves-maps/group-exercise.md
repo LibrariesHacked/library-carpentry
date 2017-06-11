@@ -11,7 +11,7 @@ Requirements
 Task
 ----
 
-To understand more about why GIS is important, we're going to discuss how place and location data is relevant to library data.
+To understand more about why GIS is important, we're going to discuss how location (and place) data is relevant to library data.
 
 ### Part A: 20 mins
 
@@ -26,4 +26,4 @@ Split a side of flipshart paper to note these down for each activity.
 
 ### Part B: Feedback
 
-Each group will feedback and we'll discuss the data we could analyse.
+Each group will feedback and we'll discuss the data we could analyse in libraries.

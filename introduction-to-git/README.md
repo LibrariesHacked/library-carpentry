@@ -6,7 +6,7 @@ This is our second module, covering Git and Version Control.
 Introduction
 ------------
 
-Git is one of many versions of version control systems (also called source control), though it is the most widely used today.  It was developed in 2005 by Linus Torvalds, well known for being the developer of the Linux Operating System.
+Git is one of many versions of version control systems (also called source control), and the most widely used today.  It was developed in 2005 by Linus Torvalds, well known for being the founding developer of the Linux Operating System.
 
 By the end of this lesson you will:
 

@@ -12,12 +12,11 @@ Requirements
 Objectives
 ----------
 
+- Icebreaker
+- Finding confidence level
 - Explain terms, phrases, and concepts associated with terms, phrases, or ideas around code or software development in libraries
 - Compare knowledge of these terms, phrases, and concepts
 - Differentiate between these terms, phrases, and concepts
-- Icebreaker
-- Finding confidence level
-- Expectation management
 
 Task
 ----
@@ -31,7 +30,7 @@ Taking the following set of terms and ideas, work together to explain what each 
 | Terms | Terms | Terms |
 | ----- | ----- | ----- |
 | Dataset | Pivot | Data science |
-| Group |  | Average |
+| Group | Formula | Average |
 | Algorithm | Big data | Outlier |
 | Open data | Aggregation | Anonymisation |
 | Regular expression | Data mining | Data protection |

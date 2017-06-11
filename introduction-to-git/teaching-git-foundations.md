@@ -4,12 +4,18 @@ Teaching.  Git Foundations
 Teaching
 --------
 
-Term Description
----- -----------
-
-
-
-
+| Term | Description |
+| ---- | ----------- |
+| Repository |  |
+| Clone |  |
+| Fork |  |
+| Add |  |
+| Remove |  |
+| Commit |  |
+| Pull |  |
+| Push |  |
+| History |  |
+| Compare |  |
 
 What is Git and GitHub?
 -----------------------
@@ -18,7 +24,7 @@ We often hear the terms Git and GitHub used interchangeably but they are slightl
 
 **Git** is one of the most widely used version control systems in the world. It is a free, open source tool that can be downloaded to your local machine and used for logging all changes made to a group of designated computer files (referred to as a 'git repository' or 'repo' for short) over time. It can be used to control file versions locally by you alone on your computer, but is perhaps most powerful when employed to coordinate simultaneous work on a group of files shared among distributed groups of people.
 
-Rather than emailing documents with tracked changes and some comments and renaming different versions of files (example.txt, exampleV2.txt, exampleV3.text) to differentiate them, we can use Git to store all the changes that have happened to a file over time. This makes it easy to get an overview of changes made by looking at a log of all changes (th e'Git history'). All earlier versions of each file still remain in their original form: they are not overwritten, should we ever wish to 'roll back' to them.
+Rather than emailing documents with tracked changes and some comments and renaming different versions of files (example.txt, exampleV2.txt, exampleV3.text) to differentiate them, we can use Git to store all the changes that have happened to a file over time. This makes it easy to get an overview of changes made by looking at a log of all changes (the 'Git history'). All earlier versions of each file still remain in their original form: they are not overwritten, should we ever wish to 'roll back' to them.
 
 Git was originally developed to help software developers work collaboratively on software projects, but it can be and is used for managing revisions to any file type. Since documents like Word and PDF contain special formatting, Git unfortunately cannot show changes to these, though both file types can be stored in Git repositories.
 
@@ -29,9 +35,8 @@ What can understanding Git do for Librarians?
 
 - Enables you to contribute, collaborate and support digital research projects
 - True version control
-- A place to discover and reuse (“fork”) a huge amount of openly licensed digital projects and open source software
-- A new and alternative means for publishing content online. Any GitHub repository can have its own project website, blog and wiki using GitHub Pages.  There is also GitBook, which takes content from a GitHub repository to publish this particular day course online.
-
+- A place to discover and reuse ('fork') a huge amount of openly licensed digital projects and open source software
+- A new and alternative means for publishing content online. Any GitHub repository can have its own project website, blog and wiki using GitHub Pages.  There is also GitBook: this website is automatically published from a repository of files [held on GitHub](https://github.com/LibrariesHacked/library-carpentry).
 
 Uses in a Library Context
 -------------------------
@@ -53,17 +58,7 @@ However, just because
 Tagging
 -------
 
-
-
-
-
-
-
-
-
-
-
 Source Materials
 ----------------
 
-Library Carpentry What is Git(http://data-lessons.github.io/library-git/01-what-is-git/)
+Library Carpentry [What is Git](http://data-lessons.github.io/library-git/01-what-is-git/)
