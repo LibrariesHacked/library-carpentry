@@ -1,7 +1,9 @@
 Library Carpentry: Library Data
 ================================
 
-This is a set of training materials for library staff on using data.  There are already excellent materials from the official [Library Carpentry site](https://librarycarpentry.github.io/), we are squeezing 3 workshops into one day so are tailoring these into this one-day guide.
+This one day Library Carpentry workshop is an introductory event for librarians and library workers who want to develop their knowledge and skills to make the most of data.
+
+There are already excellent materials from the official [Library Carpentry site](https://librarycarpentry.github.io/), we are squeezing 3 workshops into one day so are tailoring these into this guide.
 
 Library Carpentry (&copy; Library Carpentry) materials form the basis of these lessons, and are linked to throughout.  Library Carpentry builds on the work of [Software Carpentry](https://software-carpentry.org/) (Copyright &copy; Software Carpentry) and [Data Carpentry](http://www.datacarpentry.org/).  It uses the same license as these projects, which is the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 

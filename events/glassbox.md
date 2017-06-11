@@ -1,7 +1,7 @@
 15th June 2017.  Glass Box, Taunton
 ===================================
 
-Welcome to the Glass Box in Taunton Library!  This event is sponsored by the British Library.
+Welcome to Library Carpentry at the Glass Box in Taunton Library!  This day is being hosted thanks to funding from a Learning and Teaching Award given to Library Carpentry at the 2016 British Library Labs.
 
 Trainers
 --------
@@ -22,11 +22,11 @@ Schedule
 
 **WiFi**: Guest WiFi is available.  Once connected, if you have a LibrariesWest account, use your library login to get connected to the Wifi.  If not, please ask us for a guest account.
 
-**Labels**: Please collect a name label!  We are also encouraging people to choose a 'Data level' sticker based upon their experience with library data: **beginner* (maybe you don't use data much at all), *intermediate* (you use data quite a bit but want to improve), *expert* (you feel like you know your way around data quite a bit).  We'll spend some time during introductions discussing the different experiences in the room.
+**Labels**: Please collect a name label!  We are also encouraging people to choose a 'Data level' sticker based upon their experience with library data: **beginner* (maybe you don't use data much at all), *intermediate* (you use data quite a bit but you'd like to improve), *expert* (you've used data regularly and feel like you know your way around data). Don't be afraid to pick up an *expert* sticker!  We'll spend some time during introductions discussing the different experiences in the room.
 
 **Breaks**: We can take a break whenever anyone needs to.  There are a lot of different sections, so there will always be oportunities to get some air or refill on tea.
 
-### Workshop 1. Intro to Data
+### Workshop 1. Data Introduction
 
 | Time | Description |
 | ---- | ----------- |
@@ -39,7 +39,7 @@ Schedule
 
 Around **12:10** Break for Lunch. This is provided! Particular thanks to the British Library :-)
 
-### Workshop 2: Intro to Git
+### Workshop 2: Git Introduction
 
 | Time | Description |
 | ---- | ----------- |
