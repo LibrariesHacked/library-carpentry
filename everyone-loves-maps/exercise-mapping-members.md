@@ -33,14 +33,13 @@ We could immediate create a map showing the postcode areas in the UK.  However, 
 
 ```SQL
 SELECT *,
-(select count(*) from members where postcode_area = postarea) as members,
-(select min(date_added) from members where postcode_area = postarea)
+(select count(*) from members where postcode_area = postarea) as members
 FROM areas
 ```
 
-This is adding two additional columns of data to each postcode area.  It's adding a count of members for the postcode area, and also a minimum date added value for the postcode area.  In theory this represents the first date that a member from that postcode area was added to the members list.
+This is adding an additional column of data to each postcode area.  It's adding a count of members for the postcode area.
 
-- On the dataset menu select to **'Create Dataset from query'**.  Rename this new dataset to **'member_counts'**.
+- On the dataset menu select to **'Create Dataset from query'**.  Rename this new dataset to **'areas_members'**.
 - From the new Dataset create a map.
 
-As before we'll play with the map options, including shading postcode areas by member count and animating by the date it was added to the member list.
+As before we'll play with the map options, including shading postcode areas by member count.
