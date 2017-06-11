@@ -6,10 +6,9 @@ Requirements
 
 - Laptop or tablet
 - Internet
-- Data files (see downloads)
 
-Downloads
----------
+Data files
+----------
 
 For this exercise we will be using two files.
 
