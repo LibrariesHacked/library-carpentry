@@ -1,9 +1,9 @@
 Library Carpentry: Library Data
-================================
+===============================
 
 This one day Library Carpentry workshop is an introductory event for librarians and library workers who want to develop their knowledge and skills to make the most of data.
 
-There are already excellent materials from the official [Library Carpentry site](https://librarycarpentry.github.io/), we are squeezing 3 workshops into one day so are tailoring these into this guide.
+There are already excellent materials from the official [Library Carpentry site](https://librarycarpentry.github.io/); we are squeezing 3 workshops into one day so are tailoring a selection of these into this guide.
 
 Library Carpentry (&copy; Library Carpentry) materials form the basis of these lessons, and are linked to throughout.  Library Carpentry builds on the work of [Software Carpentry](https://software-carpentry.org/) (Copyright &copy; Software Carpentry) and [Data Carpentry](http://www.datacarpentry.org/).  It uses the same license as these projects, which is the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -21,7 +21,7 @@ Thanks go to the British Library and the University of Sussex where James Baker,
 Library data
 ------------
 
-We are focussing on data skills for this day.  This brings in materials from the Library Carpentry workshop, *'Data Intro for Librarians'*.  We are also using materials from the *'Git Intro for librarians'* module.  Git is a tool primarily used by software developers to store, share, and manage code, but now increasingly used by a variety of users, including for storing and using data.
+We are focussing on data skills for this day.  This brings in materials from the Library Carpentry workshop, *'Data Intro for Librarians'*.  We are also using materials from the *'Git Intro for librarians'* module.  Git is a tool primarily used by software developers to store, share, and manage code, but is now increasingly used by a variety of users, including for storing and sharing data.
 
 The last module, written specifically for this course, is *'Everyone Loves Maps'*.  This builds on a talk that was given at the Glass Box in Taunton in 2016, to the local developers Meetup group.  It has been adapted into practical exercises, particularly with a public library data focus.
 
