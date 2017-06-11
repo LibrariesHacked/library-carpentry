@@ -1,11 +1,11 @@
 Library Carpentry: Library Data
 ================================
 
-This is a set of training materials for library staff on using data.  There are already excellent materials from the official Library Carpentry site, we are squeezing 3 workshops into one day so are tailoring and modifying these into this one-day guide.
+This is a set of training materials for library staff on using data.  There are already excellent materials from the official [Library Carpentry site](https://librarycarpentry.github.io/), we are squeezing 3 workshops into one day so are tailoring these into this one-day guide.
 
-Library Carpentry (&copy; Library Carpentry) materials form the basis of these lessons, and are linked to throughout.  Library Carpentry builds on the work of Software Carpentry (Copyright &copy; Software Carpentry) and Data Carpentry.  It uses the same license as these projects, which is the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Library Carpentry (&copy; Library Carpentry) materials form the basis of these lessons, and are linked to throughout.  Library Carpentry builds on the work of [Software Carpentry](https://software-carpentry.org/) (Copyright &copy; Software Carpentry) and [Data Carpentry](http://www.datacarpentry.org/).  It uses the same license as these projects, which is the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-Additional materials here are released under the same terms, aside from data files which are provided with their licence details.
+Additional materials here are released under the same terms, aside from data files which are provided with their own licence details.
 
 Introduction
 ------------
@@ -16,15 +16,15 @@ The rationale for Library Carpentry is twofold. First, as Andromeda Yelton argue
 
 Thanks go to the British Library and the University of Sussex where James Baker, who developed the workshops, worked when planning and delivering the workshops. The aim of Library Carpentry is to create a set of tools the community can manage, support, enrich, and reuse as it sees fit.
 
-Library carpentry: Library data
--------------------------------
+Library data
+------------
 
 We are focussing on data skills for this day.  This brings in materials from the Library Carpentry workshop, *'Data Intro for Librarians'*.  We are also using materials from the *'Git Intro for librarians'* module.  Git is a tool primarily used by software developers to store, share, and manage code, but now increasingly used by a variety of users, including for storing and using data.
 
 The last module, written specifically for this course, is *'Everyone Loves Maps'*.  This builds on a talk that was given at the Glass Box in Taunton in 2016, to the local developers Meetup group.  It has been adapted into practical exercises, particularly with a public library data focus.
 
-- **Data intro for librarians**. See [here for original lesson](https://data-lessons.github.io/library-data-intro/).  Less emphasis is placed on regular expression writing (though it is covered), and more on the data discussion exercise, and specific data tasks within a library context.
-- **Git intro for librarians**. See [here for original lesson](http://data-lessons.github.io/library-git/).  Focus has been shifted to using the GitHub web interface (a cloud hosted version of Git), and using GitHub for hosting Open Data.  Also, using the features of tagging and licensing.
+- **Data introduction**. See [here for original lesson](https://data-lessons.github.io/library-data-intro/).  Less emphasis is placed on regular expression writing (though it is covered), and more on the data discussion exercise, and specific data tasks within a library context.  We have also taken materials from Data Carpentry's [Data Organization in Spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/).
+- **Git introduction**. See [here for original lesson](http://data-lessons.github.io/library-git/).  Focus has been shifted to using the GitHub web interface (a cloud hosted version of Git), and using GitHub for hosting Open Data.  Also, using the features of tagging and licensing.
 - **Everyone Loves Maps**. Not part of the Library Carpentry series, but a new set of materials aimed at introducing GIS (Geographic Information Systems) concepts and some practical exercises in creating online maps.  Adapted into a library context from [rough notes for a talk](https://github.com/DaveBathnes/GIS-Tutorial) given to the Taunton developer group.
 
 Where to go for help
@@ -32,7 +32,7 @@ Where to go for help
 
 First, identify people on your table who can help: you will all be working from the same material, so someone around you may have mastered the point you are stuck at.  Second, there are helpers on hand to help if those around you can't.
 
-We'll take regular breaks to give people the opportunity for refreshment.  Don't worry if you find you've got stuck on something - use a break to ask for help (or if it's a presentation do interrupt if anything needs clarification).
+We'll take regular breaks to give people the opportunity for refreshment.  Don't worry if you find you've got stuck on something - use a break to ask for help (or if it's a presentation, interrupt if anything needs clarification).
 
 We encourage you to finish up or repeat tasks after class timem as well.  These materials are published in order to be available all the time.  You can revisit them whenever you like.
 

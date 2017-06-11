@@ -1,12 +1,12 @@
 # Summary
 
-### The day
+### Library Data
 
 * [Introduction](README.md)
 * [Events](events/README.md)
 * [Glass Box, Taunton Library](events/glassbox.md)
 
-### Data Intro for Librarians
+### Data Introduction
 
 * [Introduction](introduction-to-data/README.md)
 * [Group Exercise. Jargon Busting](introduction-to-data/group-exercise-jargon-busting.md)
@@ -14,7 +14,7 @@
 * [Exercise. Working with data](introduction-to-data/exercise-working-with-data.md)
 * [Answers](introduction-to-data/answers.md)
 
-## Git Intro for Librarians
+## Git Introduction
 
 * [Introduction](introduction-to-git/README.md)
 * [Group Exercise. Version control](introduction-to-git/group-exercise-version-control.md)
