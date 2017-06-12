@@ -32,12 +32,11 @@ Schedule
 | ---- | ----------- |
 | 10:00am | Presentation. Data introduction. |
 | 10:10am | Group exercise. Jargon Busting |
-| 10:35am | Answers. Jargon Busting |
 | 10:50am | Teaching. Foundations |
 | 11:10am | Exercises. Working with data |
 | 11:45am | Feedback/answers and demo |
 
-Around **12:10** Break for Lunch. This is provided! Particular thanks to the British Library :-)
+Around **12:10** Break for Lunch. This is provided! Particular thanks to the British Library Labs :-)
 
 ### Workshop 2: Git Introduction
 
