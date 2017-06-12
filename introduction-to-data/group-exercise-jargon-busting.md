@@ -29,7 +29,7 @@ Taking the following set of terms and ideas, work together to explain what each 
 
 | Terms | Terms | Terms |
 | ----- | ----- | ----- |
-| Dataset | Pivot | Data science |
+| Dataset | Pivot table | Data science |
 | Group | Formula | Average |
 | Algorithm | Big data | Outlier |
 | Open data | Aggregation | Anonymisation |
@@ -49,5 +49,4 @@ Key points
 Source Material
 ---------------
 
-Library Carpentry:"Data Intro for Librarians."
-June 2016, http://data-lessons.github.io/library-data-intro/.
+Library Carpentry [Data Intro for Librarians](http://data-lessons.github.io/library-data-intro/)

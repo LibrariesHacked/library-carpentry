@@ -6,21 +6,21 @@ Jargon Busting
 
 | Terms | Description |
 | ----- | ----------- |
-| Dataset |  |
-| Pivot |  |
-| Data science |  |
-| Group |  |
-| Formula |  |
-| Average |  |
-| Algorithm |  |
-| Big data |  |
-| Outlier |  |
-| Open data |  |
-| Aggregation |  |
-| Anonymisation |  |
-| Regular expression |  |
-| Data mining |  |
-| Data protection |  |
+| Dataset | A collection of related sets of information that is composed of separate elements but can be manipulated as a unit by a computer. |
+| Pivot table | A pivot table can automatically sort, count, total or average the data stored in one table or spreadsheet, displaying the results in a second table showing the summarized data. |
+| Data science | An interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured. |
+| Group | A term used to describe aggregating data (e.g. providing a total) by a particular field or fields. |
+| Formula | An expression telling the computer what mathematical operation to perform upon a specific value. |
+| Average | A number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number |
+| Algorithm | A list of rules to follow in order to solve a problem. |
+| Big data | Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions. |
+| Outlier | A person or thing differing from all other members of a particular group or set. |
+| Open data | Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike. |
+| Aggregation | A process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis. |
+| Anonymisation |  The process of turning data into a form which does not identify individuals and where identification is not likely to take place. |
+| Regular expression | A sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. |
+| Data mining | The practice of examining large pre-existing databases in order to generate new information. |
+| Data protection | Data protection principles govern how your personal information is used by organisations, businesses or the government. |
 
 We'll  spend some time on some foundation level stuff - a combination of best practice and generic skills that frame what you'll encounter across Library Carpentry.
 

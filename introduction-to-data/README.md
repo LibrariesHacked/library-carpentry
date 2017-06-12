@@ -26,7 +26,7 @@ We make decisions every day.  Sometimes these are very small ones that don't req
 
 How often are these fully based on analysis of data and evidence?
 
-It's clear that data is essential to decision, but even when data is available to us, we don't necessarily have the data skills in order to interpret it, or manipulate it in the way we need to.  But you don't need to be a data scientist to gain confidence in using data.  This module aims to discuss data tasks we all deal with, and gain practice in some data manipulation techniques.
+It's clear that data is essential to decision-making, but even when data is available to us, we don't necessarily have the skills to interpret it, or manipulate it in the way we need to.  But you don't need to be a data scientist to gain confidence in using data.  This module aims to discuss data tasks we all deal with, and gain practice in some data manipulation techniques.
 
 Source Material
 ---------------
