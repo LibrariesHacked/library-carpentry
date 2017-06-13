@@ -10,7 +10,7 @@ Requirements
 Task
 ----
 
-We will be use a a couple of example datasets to practice some of the terms we have covered in this module.  And to get a feel of tackling data when it's not in a structure that gives us immediate answers.
+We will be use a a couple of example datasets to have a play with some data in spreadsheets.  And to get a feel of tackling data when it's not in a structure that gives us immediate answers.
 
 - **Library usage**, released by Newcastle libraries.  This contains number of issues, visits, and enquiries by month, for each library, from 2008. [Download this dataset](https://raw.githubusercontent.com/LibrariesHacked/library-carpentry/master/data/newcastle_usage.csv)
 - **Library members**, released by Newcastle libraries.  Includes a list of members (anonymised), when they joined, were last active, and what library they are registered at. Taken from 2016. [Download this dataset](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/newcastle_members.csv)

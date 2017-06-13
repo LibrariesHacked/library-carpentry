@@ -29,7 +29,3 @@
 * [Teaching.  GIS.](everyone-loves-maps/teaching-gis.md)
 * [Exercise. Mapping libraries](everyone-loves-maps/exercise-mapping-libraries.md)
 * [Exercise. Mapping members](everyone-loves-maps/exercise-mapping-members.md)
-
-### Attendees
-
-* [Dave](attendees/dave.md)

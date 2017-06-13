@@ -26,12 +26,21 @@ In this task we are going to take a dataset published by the Libraries Taskforce
 - In the Menu navigate to **Signup** or navigate to [https://carto.com/signup/](https://carto.com/signup/).
 - You'll notice you can sign up using your GitHub account.  Feel free to use the one you created earlier, or fill in the details and create a new account.
 - When prompted for additional details fill these out if you wish to.  There's no need to provide a phone number.
+
+Everyone should now have a Carto account, or ideally near someone who does!  We'll now run through a demo of uploading a dataset and mapping it.
+
+Instructor Demo
+---------------
+
 - Once logged in on the Menu navigate to **Maps > Your Datasets**.
 - Select **New Dataset**.
-- In the URL field enter: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/taskforce.csv**
+- In the URL field enter: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/libraries.csv**
 - Click Submit
 - There are a number of options as to whether you want to Sync the data. These options are only available with a paid account.  Select the default of **'Never'** and select **'Connect Dataset'**.
 - The dataset will be displayed.  You could choose then to create a map, but nothing would be displayed as there is no *geometry* data (no co-ordinates).
+
+The following three steps will already have been completed as they can take a little while (maybe 10 mins).
+
 - Return to the Data menu (the top left 'dot'), and select to add a new dataset.
 - This time use the URL: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcodes.csv**
 - Import the data as before.  This may take some extra time as the postcode dataset is a lot bigger!
@@ -60,4 +69,18 @@ This is asking to return the library name, library service, address, and co-ordi
 - Once it is done, on the dataset menu icon (three little dots after the dataset name) select to **'Create dataset from query'**.  Carto will chug away again.
 - Once that's done you will have a dataset.  On the main dataset dashboard.
 
-We'll now explore some of the options within maps.  Once we've looked at a few things as a group, spend 10 minutes exploring these options and playing with the extended features of Carto.
+The instructor will now explore some of the options within maps.
+
+Attendee exercise
+-----------------
+
+To save some time, a dataset has been creating with libraries already linked to postcode cooridnates.  Spend 15 minutes running through this exercise and playing with some of the map features.
+
+- Navigate to **Maps > Your Datasets**.
+- Select **New Dataset**.
+- In the URL field enter: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/libraries_geo.csv**
+- Click Submit
+- Select the default of **'Never'** and select **'Connect Dataset'**.
+- The dataset will be displayed.  You can then choose then to create a map.
+
+Spend some time exploring the map options and playing with the extended features of Carto.
