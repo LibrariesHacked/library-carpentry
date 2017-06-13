@@ -32,7 +32,7 @@ Schedule
 | ---- | ----------- |
 | 10:00am | Presentation. Data introduction. |
 | 10:10am | Group exercise. Jargon Busting |
-| 10:50am | Teaching. Foundations |
+| 10:45am | Teaching. Foundations |
 | 11:10am | Exercises. Working with data |
 | 11:45am | Feedback/answers and demo |
 
@@ -54,8 +54,9 @@ Around **12:10** Break for Lunch. This is provided! Particular thanks to the Bri
 
 | Time | Description |
 | ---- | ----------- |
-| 2:30pm | Presentation. Introduction to Geographic Information Systems (GIS) |
-| 2:45pm | Group Exercise. Locations and places stored in data |
+| 2:30pm | Presentation. Location and Place |
+| 2:35pm | Group Exercise. Locations and places in library data |
+| 3:00pm | Teaching.  GIS |
 | 3:15pm | Exercise. Mapping libraries |
-| 4:00pm | Exercise. Geographic data analysis |
+| 4:00pm | Exercise. Mapping members |
 | 4:30pm | Close |

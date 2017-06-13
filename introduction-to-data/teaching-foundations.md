@@ -7,11 +7,11 @@ Jargon Busting
 | Terms | Description |
 | ----- | ----------- |
 | Dataset | A collection of related sets of information that is composed of separate elements, but can be manipulated as a unit by a computer. |
-| Pivot table | A pivot table can automatically sort, count, total or average the data stored in one table or spreadsheet, displaying the results in a second table showing the summarized data. |
+| Pivot table | A pivot table can automatically sort, count, total or average the data stored in one table or spreadsheet, displaying the results in a second table showing the summarized data.  *Instructor: demonstrate a pivot table in a spreadsheet.* |
 | Data science | An interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured. |
 | Group | A term used to describe aggregating data (e.g. providing a total) by a particular field or fields. |
-| Formula | An expression telling the computer what mathematical operation to perform upon a specific value. |
-| Average | A number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number |
+| Formula | An expression telling the computer what mathematical operation to perform upon a specific value.  *Instructor: demonstrate formula in spreadsheet* |
+| Average | A number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number. |
 | Algorithm | A list of rules to follow in order to solve a problem. |
 | Big data | Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions. |
 | Outlier | A person or thing differing from all other members of a particular group or set. |
@@ -27,9 +27,9 @@ We'll  spend some time on some foundation level stuff - a combination of best pr
 The Computer is Stupid
 ----------------------
 
-This does not mean that the computer isn’t useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting). 
+This does not mean that the computer isn’t useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
 
-This is not to say that the people who told the computer what to tell you when it doesn’t know what to do couldn't have done a better job with error messages, for they could. So keep in mind as we go along that if you find an error message frustrating, it isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
+This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. So keep in mind as we go along that if you find an error message frustrating, it isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
 
 Why take an automated or computational approach?
 ------------------------------------------------
@@ -39,7 +39,11 @@ Otherwise known as the 'why not do it manually?' question. To start with, I'm no
 a) I don't know how to automate the task or;
 b) I’m unlikely to repeat the task and estimate that automating it would take longer
 
-However once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/) The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
+However once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/) 
+
+The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
+
+Instructor: show some of these examples.
 
 Keyboard shortcuts are your friend
 ----------------------------------
@@ -56,27 +60,28 @@ Plain text formats are your friend
 
 Why? Because computers can process them!
 
-If you want computers to be able to process your stuff, try to get in the habit where possible of using platform-agnostic formats such as .txt for notes and .csv or .tsv for tabulated data (the latter pair are just spreadsheet formats, separated by commas and tabs respectively).
+If you want computers to be able to process your stuff, try to get in the habit where possible of using platform-agnostic formats such as *.txt* for notes and *.csv* or *.tsv* for tabulated data (the latter pair are just spreadsheet formats, separated by commas and tabs respectively).
 
 ### CSV and text Files
 
 A CSV is a comma separated values file which allows data to be saved in a table structured format. CSVs look like a garden-variety spreadsheet but with a **.csv** extension (Traditionally they take the form of a text file containing information separated by commas, hence the name).
 
-These plain text formats are preferable to the proprietary formats used as defaults by Microsoft Office because they can be opened by many software packages and have a strong chance of remaining viewable and editable in the future. Most standard office suites include the option to save files in .txt, .csv and .tsv formats, meaning you can continue to work with familiar software and still take appropriate action to make your work accessible.
+These plain text formats are preferable to the proprietary formats used as defaults by Microsoft Office because they can be opened by many software packages and have a strong chance of remaining viewable and editable in the future. Most standard office suites include the option to save files in *.txt*, *.csv* and *.tsv* formats, meaning you can continue to work with familiar software and still take appropriate action to make your work accessible.
 
-Compared to .doc or .xls, these formats have the additional benefit of containing only machine-readable elements. Whilst using bold, italics, and colouring to signify headings or to make a visual connection between data elements is common practice, these display-orientated annotations are not (easily) machine-readable and hence can neither be queried and searched nor are appropriate for large quantities of information.
+Compared to *.doc* or *.xls*, these formats have the additional benefit of containing only machine-readable elements. Whilst using bold, italics, and colouring to signify headings or to make a visual connection between data elements is common practice, these display-orientated annotations are not (easily) machine-readable and hence can neither be queried and searched nor are appropriate for large quantities of information.
 
 ### Markdown
 
-Though it is likely that notation schemes will emerge from existing individual practice, existing schema are available to represent headers, breaks, et al. One such scheme is Markdown, a lightweight markup language. Markdown files are as .md, are machine readable, human readable, and used in many contexts - GitHub for example, renders text via Markdown. An excellent Markdown cheat sheet is available on GitHub for those who wish to follow – or adapt – this existing schema. 
+Though it is likely that notation schemes will emerge from existing individual practice, existing schema are available to represent headers, breaks, et al. One such scheme is Markdown, a lightweight markup language. Markdown files, *.md*, are machine readable, human readable, and used in many contexts - GitHub for example, renders text via Markdown. An excellent [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is available on GitHub for those who wish to follow – or adapt – this existing schema.
 
-Notepad++ http://notepad-plus-plus.org/ is recommended for Windows users as a tool to write Markdown text in, though it is by no means essential for working with .md files. Mac or Unix users may find Komodo Edit, Text Wrangler, Kate, or Atom helpful. Combined with pandoc, a markdown file can be exported to PDF, LaTeX or other formats, so it is a great way to create machine-readable, easily searchable documents that can be repurposed in many ways. It is a universal document converter.
+This set of notes is all written in markdown. See
+
+[Notepad++](http://notepad-plus-plus.org/) is recommended for Windows users as a tool to write Markdown text in, though it is by no means essential for working with *.md* files. Mac or Unix users may find Komodo Edit, Text Wrangler, Kate, or Atom helpful.
 
 Naming files sensible things is good
 ------------------------------------
 
 Working with data is made easier by structuring your stuff in a consistent and predictable manner.
-
 
 Examining URLs is a good way of thinking about why structuring research data in a consistent and predictable manner might be useful in your work. Good URLs represent with clarity the content of the page they identify, either by containing semantic elements or by using a single data element found across a set or majority of pages.
 
@@ -90,12 +95,14 @@ A similar style is used by news agencies such as a The Guardian newspaper:
 
 http://www.theguardian.com/uk-news/2014/feb/20/rebekah-brooks-rupert-murdoch-phone-hacking-trial
 
-In data repositories, URLs structured by a single data element are often used. The NLA's TROVE structures its online archive using the format: 
+In data repositories, URLs structured by a single data element are often used. The NLA's TROVE structures its online archive using the format:
+
 **ROOT/record-type/REF**
 
 http://trove.nla.gov.au/work/6315568
 
-And the Old Bailey Online uses the format: 
+And the Old Bailey Online uses the format:
+
 **ROOT/browse.jsp?ref=REF**
 
 http://www.oldbaileyonline.org/browse.jsp?ref=OA16780417

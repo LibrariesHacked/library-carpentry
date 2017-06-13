@@ -3,12 +3,16 @@ Exercise Answers
 
 Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools.  Other spreadsheet software will have very similar functionality but will differ in some respects.
 
-A1. Usage. Which library has had the highest number of issues since 2008.  How many?
-------------------------------------------------------------------------------------
+Possible methods
+----------------
+
+There are no absolute 'correct' ways of going about doing these tasks.  These are possible methods.
+
+### A1. Usage. Which library has had the highest number of issues since 2008.  How many?
 
 One way of approaching this is to use a Pivot table to group the data by branch.  Then display a sum of issues for each branch.
 
-### Excel
+#### Excel
 
 1. Open *newcastle_usage.csv* in Excel.  Highlight all the data
 2. On the Excel menu select **Insert > Pivot table** to launch a new Pivot table
@@ -18,7 +22,7 @@ One way of approaching this is to use a Pivot table to group the data by branch.
 6. Excel will calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library.  Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click OK.
 7. To sort the table, click the drop down on the pivot table labelled **'Row labels'**.  Click **'More sort options'** and select **'Sum of issues'**.
 
-### Google Sheets
+#### Google Sheets
 
 1. In Google Sheets (https://docs.google.com/spreadsheets) start a new blank sheet.
 2. Import the data.  Select **File > Import > Upload**. Drag the file newcastle_usage.csv to be uploaded, or use the file selection tool.
@@ -40,14 +44,13 @@ You should finish with a table like the following (top 5 shown only).
 
 The library with the most issues is City.  The number of issues is 2,874,941.
 
-A2. Usage. Which year has the highest number of issues?
--------------------------------------------------------
+### A2. Usage. Which year has the highest number of issues?
 
 Using pivot tables, as in the previous question, we can aggregate by particular fields, and sort the data.  However, the trickier part here is grouping by year, when we only have the data by month AND year (e.g. '2008-04').
 
 We can use a calculated column to create a new column showing the year.
 
-### Excel
+#### Excel
 
 1. Within Excel go back to the main data worksheet.
 2. Add a new Column called Year.
@@ -56,7 +59,7 @@ We can use a calculated column to create a new column showing the year.
 5. Use **'Fill Down'** in Excel to copy the formula for all cells of the column. Shortcut: Highlight the cell with the formula and use the keyboard shortcut **Ctrl+Shift+End**.  Then on the Excel menu select **Fill Down**.
 5. Repeat the pivoting process as in the previous question but group the data by the Year column.
 
-### Google Sheets
+#### Google Sheets
 
 1. Start a new sheet and import the data, or use the previous sheet.
 2. Create a new column and call it 'Year'
@@ -74,12 +77,11 @@ We can use a calculated column to create a new column showing the year.
 | 2009 | 1341039 |
 | 2010 | 1387851 |
 
-A3. Usage. At City library, which month (January to December) is busiest for enquiries?
----------------------------------------------------------------------------------------
+### A3. Usage. At City library, which month (January to December) is busiest for enquiries?
 
 This is similar to the previous question, but we need to extract year instead of month.  We also need to determine which calendar month is the busiest for enquiries.  One month (e.g. January) could be busiest one year, but less busy the nest.  We can calculate an average for each calendar month across all years.
 
-### Excel
+#### Excel
 
 1. Within Excel go back to the main data sheet.
 2. Add a new Column called **'Month Number'**.
@@ -89,8 +91,7 @@ This is similar to the previous question, but we need to extract year instead of
 6. Drag the Enquiries field into the values section and change the Value field setting to **'Average of enquiries'**.
 7. Drag the 'Month number' field into the Rows section and sort the pivot table as before.
 
-
-### Google Sheets
+#### Google Sheets
 
 1. Start a new sheet and import the data, or use the previous sheet.
 2. Create a new column and call it 'Month number'
@@ -104,12 +105,11 @@ This is similar to the previous question, but we need to extract year instead of
 
 In City library, October is the busiest for enquiries, with an average of 30,294 enquiries since 2008.
 
-A4. Members. Which individual month (e.g. June 2011) saw the highest number of new members?
--------------------------------------------------------------------------------------------
+### A4. Members. Which individual month (e.g. June 2011) saw the highest number of new members?
 
 Again, we're going to group the data.  This time starting with the 'Date Added' column, that has a full date and converting it to a representation of year and month.
 
-### Excel
+#### Excel
 
 1. Open *newcastle_members.csv* in Excel.
 2. Add a new column called **'Month Added'**
@@ -120,7 +120,7 @@ Again, we're going to group the data.  This time starting with the 'Date Added' 
 6. When adding a Value field to the pivot table we just need a count of rows.  Add any field to the Values section.
 7. Sort the pivot table.
 
-### Google Sheets
+#### Google Sheets
 
 1. In Google Sheets (https://docs.google.com/spreadsheets) start a new blank sheet.
 2. Import the data.  Select **File > Import > Upload**. Drag the file newcastle_members.csv to be uploaded, or use the file selection tool.
@@ -133,8 +133,7 @@ Again, we're going to group the data.  This time starting with the 'Date Added' 
 
 August 1996 seems to have been the best month for registrations. 4375 new members!  Does this seem likely?
 
-A5. Members.  Which postcode area has the highest number of members?
---------------------------------------------------------------------
+### A5. Members.  Which postcode area has the highest number of members?
 
 This is a tricky question because we need to group the data by postcode area (e.g. TA) where we only have it as postcode district (e.g. TA1).
 
@@ -142,7 +141,7 @@ It is not as simple as, for example, taking the first two characters from the da
 
 This kind of problem is perfect for regular expressions. We'll go through doing this as a demo.  But here are two ways of doing it.
 
-### Excel
+#### Excel
 
 1. Go back to the data worksheet.
 2. Create a new column called **'Postcode Area'**
@@ -155,7 +154,7 @@ This kind of problem is perfect for regular expressions. We'll go through doing 
 
 This feels like cheating as it doesn't feel like a logical data process.  It's worth knowing about though!
 
-### Google Sheets
+#### Google Sheets
 
 1. Start a new sheet and import the member data.
 2. Create a new column call 'Postcode Area'

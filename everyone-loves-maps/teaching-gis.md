@@ -17,16 +17,27 @@ Typically when dealing with geo-spatial data, this will be in the form of Points
 
 ### File formats
 
-#### Geographic coordinate systems
+GIS data can be distributed in multiple formats.
 
-#### Spatial reference systems
+
+
+### Geographic coordinate systems
+
+
+
+### Spatial reference systems
 
 ### Geocoding and reverse geocoding
 
 
-Demo: Geocoding a set of addresses
+#### Demo: Geocoding a set of addresses
 
-Demo: Reverse geocooding a set of addresses
+Using the libraries taskforce dataset of libraries the instructor will now demonstrate using an online geocoder to geocode these.
+
+#### Demo: Reverse geocooding a set of addresses
+
+Using the output from the previous demo (a set of geocoordinates) the instructor will demonstrate reverse geocoding these.
+
 
 ### GIS Software
 

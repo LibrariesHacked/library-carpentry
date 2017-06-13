@@ -13,17 +13,17 @@ Task
 
 To understand more about why GIS is important, we're going to discuss how location (and place) data is relevant to library data.
 
-### Part A: 20 mins
+### Part A: 15 mins
 
-Taking a couple of activities that happen in a library, discuss in groups the locations and places that could be relevant to that activity.  As many as you can think of!
+Taking some activities that happen in a library, discuss in groups the locations and places that could be relevant to that activity.  As many as you can think of!
 
-As an example, a physical loan of an item could include the location of the library from which it was loaned.  Use the following two activities:
+As an example, a physical loan of an item could include the location of the library from which it was loaned.  Start with the following two activities but feel free to think up others when you've run out of locations.
 
 - A library member checking out an item
 - A new user joining the library
 
-Split a side of flipshart paper to note these down for each activity.
+Use flipchart paper to note down the locations and places.
 
-### Part B: Feedback
+### Part B: Feedback 10 mins
 
-Each group will feedback and we'll discuss the data we could analyse in libraries.
+Each group will feedback and we'll discuss the geographic data we could analyse in libraries.
