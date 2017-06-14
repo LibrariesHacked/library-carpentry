@@ -8,7 +8,7 @@ Trainers
 
 **Tabitha**: Service Development Manager, Somerset Libraries.
 
-**Dave**: Systems Technician, LibrariesWest. Chief Technology Officer, CartoConsult.
+**Dave**: Systems Officer, LibrariesWest. Chief Technology Officer, CartoConsult.
 
 Schedule
 --------
@@ -57,6 +57,7 @@ Around **12:10** Break for Lunch. This is provided! Particular thanks to the Bri
 | 2:30pm | Presentation. Location and Place |
 | 2:35pm | Group Exercise. Locations and places in library data |
 | 3:00pm | Teaching.  GIS |
-| 3:15pm | Exercise. Mapping libraries |
-| 4:00pm | Exercise. Mapping members |
+| 3:20pm | Exercise. Mapping libraries |
+| 3:50pm | Exercise. Mapping members |
+| 4:20pm | Feedback |
 | 4:30pm | Close |

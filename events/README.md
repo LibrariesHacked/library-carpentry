@@ -1,7 +1,7 @@
 Events
 ======
 
-If succesful it would be good to run this day in a number of locations. We'll list here the events as they are organised and run.
+If possible it would be good to run this day in a number of locations. We'll list here the events as they are organised and run.  Each one will include it's own schedule and arrangements.
 
 | Data | Location |
 | ---- | -------- |
