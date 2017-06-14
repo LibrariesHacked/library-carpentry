@@ -12,8 +12,8 @@ Data files
 
 For this exercise we will be using two files.
 
-- [Libraries taskforce libraries dataset](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/taskforce.csv).  A listing of English Libraries including their address and postcode.  Released under the Open Government Licence.
-- [UK postcodes](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcodes.csv]).  A full list of postcodes in England, taken from 'Code Point Open', an Ordnance Survey open data product.
+- [Libraries taskforce libraries dataset](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/taskforce.csv).  A listing of libraries in England, including their address and postcode.  Released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). This must be acknowledged as: *Contains public sector information licensed under the Open Government Licence v3.0.*
+- [UK postcodes](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcodes.csv]).  A full list of postcodes in England, taken from 'Code Point Open', an [Ordnance Survey open data product](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html).  This must be acknowledged as: *Contains OS data © Crown copyright and database right 2017. Contains Royal Mail data © Royal Mail copyright and Database right 2017. Contains National Statistics data © Crown copyright and database right 2017.*
 
 There should be no need to download these files.  They're held online so we'll let Carto access them.
 
@@ -37,15 +37,15 @@ Instructor Demo
 - In the URL field enter: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/libraries.csv**
 - Click **'Submit'**
 - There are a number of options as to whether you want to Sync the data. These options are only available with a paid account.  Leave the default of **'Never'** and select **'Connect Dataset'**.
-- The dataset will be displayed.  You could choose then to create a map, but nothing would be displayed as there is no *geometry* data (no co-ordinates).
+- The dataset will be displayed.  We could choose to create a map, but nothing would be displayed as there is no *geometry* data (no co-ordinates).
 
-The following three steps will already have been completed by the instructor as they can take a little while (maybe 10 mins).
+The following three steps will already have been completed by the instructor, as they can take a little while (maybe 10 mins).
 
-- Return to the Data menu (the top left 'dot'), and select to add a new dataset.
+- Return to the Data menu (the top left 'dot'), and select to **'Add a new dataset'**.
 - This time use the URL: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcodes.csv**
-- Import the data as before.  This may take some extra time as the postcode dataset is a lot bigger, over a million rows.
+- Import the data as before.  This may take some extra time as the postcode dataset is a lot bigger - over a million rows.
 
-We now have two datasets loaded.  One with all the libraries, including their postcodes.  Another with all the postcodes in England, including their coordinates.  We need to merge the postcode co-ordinates into the libraries dataset, so we have a dataset of libraries with co-ordinates.
+We now have two datasets loaded.  One with all the libraries, including their postcodes.  Another with all the postcodes in England, including their coordinates.  We need to merge postcode co-ordinates into the libraries dataset, so we have a dataset of libraries with co-ordinates.
 
 - Go into the **libraries** dataset.  Select at the bottom the option to show **SQL**.  This will show:
 
@@ -53,7 +53,7 @@ We now have two datasets loaded.  One with all the libraries, including their po
 SELECT * FROM libraries
 ```
 
-This tells us the view of data is currently showing all columns (*) from the libraries dataset.  We can change this to a view that would show a selection of columns from combined datasets.
+This tells us that the current data view is showing all columns (*) from the libraries dataset.  We can change this to a view that would show a selection of columns from combined datasets.
 
 - Change the SQL to the following.
 
@@ -63,7 +63,7 @@ SELECT library_name, library_service, postal_address,
 FROM libraries
 ```
 
-This is selecting to view the library name, library service, address, and geometry of the postcode for each library.  The geometry of the postcodes are retrieved by matching on the postcode field from each dataset.
+This is selecting to view the *library_name*, *library_service*, *postal_address*, and *geometry* for each library.  The geometry is retrieved by matching on the postcode field from each dataset.
 
 - Click **'Apply'**.  Carto will chug away for a little while fetching the data.
 - Once it is done, on the dataset menu icon (three little dots after the dataset name) select to **'Create dataset from query'**.  Carto will chug away again.
@@ -75,7 +75,7 @@ The instructor will now explore some of the options within maps.
 Attendee exercise
 -----------------
 
-To save some time, a dataset has been created with libraries already linked to postcode geometry.  Spend 15 minutes running through this exercise and playing with some of the map features.
+To save some time, a CSV file has been created with libraries already linked to postcode geometry.  Spend 15 minutes running through this exercise and playing with some of the map features.
 
 - Navigate to **Maps > Your Datasets**.
 - Select **New Dataset**.
