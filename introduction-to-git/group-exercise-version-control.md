@@ -23,11 +23,12 @@ Spend time in groups discussing both of the different kind of files you have at 
 Here are some sample talking points, feel free to add any you feel appropriate.
 
 - Where are they stored?
-- How do we track changes to them?
-- How do we manage multiple people working on them at once?
+- How do you track changes to them?
+- How do you manage multiple people working on them at once?
 - How are they shared?
-- How sensitive are the documents we're working on?
-- What level of control do you have over what file platform you may use?
+- How sensitive are the documents you're working on?
+- What restrictions on access to the documents/data do you have?
+- What level of control do you have over where you can store documents?  Are you able to use cloud file sharing?
 
 ### Part B: 10 minutes
 

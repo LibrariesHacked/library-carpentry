@@ -11,12 +11,12 @@ Git is one of many versions of version control systems (also called source contr
 By the end of this lesson you will:
 
 - Know the basics of why version control is used
-- Understand what Git and GitHub are, and some of the terminology (which can seem strange)
+- Understand what Git and GitHub are, and some of the terminology (which can seem strange!)
 
 Version control
 ---------------
 
-Version control systems are developed for, and most commonly used in, software engineering.  All major software projects will use some version control system: it is almost impossible to manage a serious software development project without it.  Version controls allows for:
+Version control systems are developed for, and most commonly used in, software engineering.  All major software projects will use some version control system, it is almost impossible to manage a serious software development project without it.  Version controls allows for:
 
 - collaboration so that multiple people can work on projects at the same time
 - tracking of exactly when changes were made (and by who) - important if things have gone wrong

@@ -7,12 +7,12 @@ Requirements
 - Laptop/Tablet
 - Internet
 
-Task
-----
+Task - Instructor led
+---------------------
 
 In this task we'll ensure everyone (who wants to) sets up an account on GitHub.
 
-If you don't want to set up an account on GitHub you can follow along with the lesson, but avoid completing the signup process. We will also be creating an account that can be shared for use in the exercises.
+If you don't want to set up an account on GitHub you can follow along with the lesson, but avoid completing the signup process. We will also be creating an account that can be shared for use in the exercise.
 
 - In a web browser navigate to [https://www.github.com](https://www.github.com).
 
@@ -26,9 +26,11 @@ The GitHub signup process is quite minimal. You only need to provide these three
 - On Step 2, leave the default option of **'Unlimited public repositories for free.'** and click **'Continue'**
 - Feel free to complete Step 3, which is questions about yourself, or click **'Skip this step'**
 
-You will notice that Step 2 includes the option to pay for the benefit of having private repositories.  GitHub is completely free as long as everything you do is public. For software development, this has been incredibly beneficial. It has fostered a culture of open by default, with everyone sharing their work simply because it is part of their day to day workflow to do so.
+You will notice that Step 2 includes the option to pay for the benefit of having private repositories.  GitHub is completely free as long as everything you do is public. For software development, this has been incredibly beneficial. It has fostered a culture of open by default, with everyone sharing their work, simply because it is part of their day to day workflow to do so.
 
 However, be aware that when everything is public you do need to be careful.  Do not share confidential usernames and passwords, or personal data on GitHub.  But do consider if what you do **needs** to be private.  If it doesn't, why not think about using GitHub as a free collaboration tool?
+
+Also, just because something is public it does not necessarily mean it is open.  To an extent it may as well be, but we'll cover choosing licences when using GitHub.
 
 Key points
 ----------
