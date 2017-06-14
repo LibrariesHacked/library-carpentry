@@ -25,6 +25,8 @@ We are focussing on data skills for this day.  This brings in materials from the
 
 The last module, written specifically for this course, is *'Everyone Loves Maps'*.  This builds on a talk that was given at the Glass Box in Taunton in 2016, to the local developers Meetup group.  It has been adapted into practical exercises, particularly with a public library data focus.
 
+These three topics were chosen in a poll we conducted before applying for funding to run the workshop.
+
 - **Data introduction**. See [here for original lesson](https://data-lessons.github.io/library-data-intro/).  Less emphasis is placed on regular expression writing (though it is covered), and more on the data discussion exercise, and specific data tasks within a library context.  We have also taken materials from Data Carpentry's [Data Organization in Spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/).
 - **Git introduction**. See [here for original lesson](http://data-lessons.github.io/library-git/).  Focus has been shifted to using the GitHub web interface (a cloud hosted version of Git), and using GitHub for hosting Open Data.  Also, using the features of tagging and licensing.
 - **Everyone Loves Maps**. Not part of the Library Carpentry series, but a new set of materials aimed at introducing GIS (Geographic Information Systems) concepts and some practical exercises in creating online maps.  Adapted into a library context from [rough notes for a talk](https://github.com/DaveBathnes/GIS-Tutorial) given to the Taunton developer group.
