@@ -14,7 +14,7 @@ Objectives
 
 - Icebreaker
 - Finding confidence level
-- Explain terms, phrases, and concepts associated with terms, phrases, or ideas around code or software development in libraries
+- Explain terms, phrases, and concepts associated with terms, phrases, or ideas around data
 - Compare knowledge of these terms, phrases, and concepts
 - Differentiate between these terms, phrases, and concepts
 
@@ -25,7 +25,7 @@ We will be separating into groups of 4-5 per table.
 
 ### Part A: 20 minutes
 
-Taking the following set of terms and ideas, work together to explain what each one means (note: use both each other and the internet as a resource!).  Try to only spend 2 mins on each and don't worry about covering them all.  Make a note of those your group resolves and those you are still struggling with.
+Taking the following set of terms and ideas, work together to explain what each one means (note: use both each other and the internet as a resource!).  Try to only spend 2 mins (max) on each and don't worry about covering them all.  Make a note of those your group resolves and those you are still struggling with.
 
 Use flipchart paper to write down each term, with thoughts on the definition around each one.
 

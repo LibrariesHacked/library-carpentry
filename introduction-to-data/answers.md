@@ -1,7 +1,7 @@
 Exercise Answers
 ================
 
-Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools.  Other spreadsheet software will have very similar functionality but will differ in some respects.
+Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools and possibly represent a work/home split (work - often Microsoft Office, Home - Google Docs).  Other spreadsheet software will have very similar functionality but will differ in some respects.
 
 Possible methods
 ----------------
@@ -16,10 +16,10 @@ One way of approaching this is to use a Pivot table to group the data by branch.
 
 1. Open *newcastle_usage.csv* in Excel.  Highlight all the data
 2. On the Excel menu select **Insert > Pivot table** to launch a new Pivot table
-3. Accept the default options and click OK
-4. In the Pivot table selections, drag the Library field into the Rows section
-5. Drag the Issues field into the Values section
-6. Excel will calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library.  Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click OK.
+3. Accept the default options and click **OK**
+4. In the Pivot table selections, drag the **'Library'** field into the **'Rows'** section
+5. Drag the **'Issues'** field into the **'Values'** section
+6. Excel will calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library.  Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click **OK**.
 7. To sort the table, click the drop down on the pivot table labelled **'Row labels'**.  Click **'More sort options'** and select **'Sum of issues'**.
 
 #### Google Sheets
@@ -32,12 +32,10 @@ One way of approaching this is to use a Pivot table to group the data by branch.
 6. On the **Values** option add the field Issues (ensure it says **'Summarise by SUM'**)
 7. On the Rows options change 'Sort by: Library' to **'Sort by: SUM of issues'**.
 
-You should finish with a table like the following (top 5 shown only).
+You should finish with a table like the following (top 3 shown only).
 
 | Row labels | Sum of issues |
 | ---------- | ------------- |
-| Fenham | 424050 |
-| East End | 738978 |
 | Outer West | 830724 |
 | Gosforth | 1292978 |
 | City | 2874941 |
@@ -54,8 +52,8 @@ We can use a calculated column to create a new column showing the year.
 
 1. Within Excel go back to the main data worksheet.
 2. Add a new Column called Year.
-3. In Excel, the **'YEAR()'** function within a formula extracts the year part from a date.  However, we don't have valid dates, we have data as a year and month in column B ('2008-04').  We can write a formula that will convert that data into a full date (e.g. '2008-04-01'), and then extract the year.  In the first data row of your new column enter the formula: **=YEAR(CONCATENATE(B2,"-01"))**
-4. This is combining two functions: CONCATENATE and YEAR.  CONCATENATE appends the text '-01' to the data, to make it into a full date.  On this we then use the function called YEAR, which extracts just the year.  The year should then apear as '2008'.
+3. In Excel, the **'YEAR()'** function within a formula extracts the year part from a date.  However, we don't have valid dates, in column B we have a 'sortof' date as a year and month ('2008-04').  We can write a formula that will convert that data into a full date (e.g. '2008-04-01'), and then extract the year.  In the first data row of your new column enter the formula: **=YEAR(CONCATENATE(B2,"-01"))**
+4. This is combining two functions: CONCATENATE and YEAR.  CONCATENATE appends the text '-01' to the data, to make it into a full date.  On this we then use the function called YEAR, which extracts the year.  The year should then apear as '2008'.
 5. Use **'Fill Down'** in Excel to copy the formula for all cells of the column. Shortcut: Highlight the cell with the formula and use the keyboard shortcut **Ctrl+Shift+End**.  Then on the Excel menu select **Fill Down**.
 5. Repeat the pivoting process as in the previous question but group the data by the Year column.
 
@@ -72,14 +70,13 @@ We can use a calculated column to create a new column showing the year.
 
 | Year | Sum of issues |
 | ---- | ------------- |
-| 2012 | 1023174 |
 | 2011 | 1180355 |
 | 2009 | 1341039 |
 | 2010 | 1387851 |
 
-### A3. Usage. At City library, which month (January to December) is busiest for enquiries?
+### A3. Usage. At City library, which month (January to December) tends to be busiest for enquiries?
 
-This is similar to the previous question, but we need to extract year instead of month.  We also need to determine which calendar month is the busiest for enquiries.  One month (e.g. January) could be busiest one year, but less busy the nest.  We can calculate an average for each calendar month across all years.
+This is similar to the previous question, but we need to extract month instead of year.  We also need to determine which calendar month *tends* to be the busiest for enquiries.  One month (e.g. January) could be busiest one year, but less busy the next.  We can calculate an average for each calendar month across all years.
 
 #### Excel
 

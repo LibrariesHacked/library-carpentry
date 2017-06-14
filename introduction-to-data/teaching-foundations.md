@@ -14,7 +14,7 @@ Jargon Busting
 | Average | A number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number. |
 | Algorithm | A list of rules to follow in order to solve a problem. |
 | Big data | Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions. |
-| Outlier | A person or thing differing from all other members of a particular group or set. |
+| Outlier | An observation point that is distant from other observations.  Very similar to anomaly, although anomaly possibly more often used for unexplained results whereas outliers may just be data that doesn't correspond with others. |
 | Open data | Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike. |
 | Aggregation | A process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis. |
 | Anonymisation |  The process of turning data into a form which does not identify individuals and where identification is not likely to take place. |
@@ -22,22 +22,22 @@ Jargon Busting
 | Data mining | The practice of examining large pre-existing databases in order to generate new information. |
 | Data protection | Data protection principles govern how your personal information is used by organisations, businesses or the government. |
 
-We'll spend some time on a combination of best practice and generic skills.
+We'll now spend some time on a combination of best practice and generic skills.
 
 The Computer is Stupid
 ----------------------
 
-This does not mean that the computer isn’t useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
+This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
 
 This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. It isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
 
 Why take an automated or computational approach?
 ------------------------------------------------
 
-Otherwise known as the 'why not do it manually?' question. To start with, I'm not anti-manual. I do plenty of things manually that a machine could do in an automated way because either:
+Otherwise known as the *'why not do it manually?'* question. To start with, I'm not anti-manual. I do plenty of things manually that a machine could do in an automated way because either:
 
-a) I don't know how to automate the task or;
-b) I’m unlikely to repeat the task and estimate that automating it would take longer
+- a) I don't know how to automate the task or;
+- b) I’m unlikely to repeat the task and estimate that automating it would take longer
 
 However, once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/).
 
@@ -48,12 +48,17 @@ Instructor: show some of these examples.
 Keyboard shortcuts are your friend
 ----------------------------------
 
+Working with data can often involve repetitive and be a strain if using a mouse.  It's always worth learning keyboard shortcuts.
+
 | Shortcut | What does it do |
 | -------- | --------------- |
 | Ctrl + s | Saves the current document |
 | Ctrl + c | Copies the current selection to the clipboard |
 | Ctrl + x | Cuts the current selection to the clipboard |
 | Ctrl + v | Pastes the current clipboard contents to the current document |
+| Ctrl + Shift + End | In spreadsheets highlights to the bottom of a column |
+
+...many many more.  
 
 Plain text formats are your friend
 ----------------------------------
@@ -74,7 +79,7 @@ Compared to *.doc* or *.xls*, these formats have the additional benefit of conta
 
 Though it is likely that notation schemes will emerge from existing individual practice, existing schema are available to represent headers, breaks, et al. One such scheme is Markdown, a lightweight markup language. Markdown files, *.md*, are machine readable, human readable, and used in many contexts - GitHub for example, renders text via Markdown. An excellent [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is available on GitHub for those who wish to follow – or adapt – this existing schema.
 
-This set of notes is all written in markdown. See
+This set of notes is all written in markdown. See the raw markdown files, stored in GitHub.
 
 [Notepad++](http://notepad-plus-plus.org/) is recommended for Windows users as a tool to write Markdown text in, though it is by no means essential for working with *.md* files. Mac or Unix users may find Komodo Edit, Text Wrangler, Kate, or Atom helpful.
 
@@ -83,14 +88,16 @@ Naming files sensible things is good
 
 Working with data is made easier by structuring your stuff in a consistent and predictable manner.
 
-Examining URLs is a good way of thinking about why structuring research data in a consistent and predictable manner might be useful in your work. Good URLs represent with clarity the content of the page they identify, either by containing semantic elements or by using a single data element found across a set or majority of pages.
+Examining URLs is a good way of thinking about why structuring data in a consistent and predictable manner might be useful in your work. Good URLs represent with clarity the content of the page they identify, either by containing semantic elements or by using a single data element found across a set or majority of pages.
 
-A typical example of the former are the URLs used by news websites or blogging services. WordPress URLs follow the format:
+A typical example of the former are the URLs used by news websites or blogging services. WordPress URLs often follow the format:
+
 **ROOT/YYYY/MM/DD/words-of-title-separated-by-hyphens**
 
 http://cradledincaricature.com/2015/07/24/code-control-and-making-the-argument-in-the-humanities/
 
-A similar style is used by news agencies such as a The Guardian newspaper: 
+A similar style is used by news agencies such as a The Guardian newspaper:
+
 **ROOT/SUB_ROOT/YYYY/MMM/DD/words-describing-content-separated-by-hyphens**
 
 http://www.theguardian.com/uk-news/2014/feb/20/rebekah-brooks-rupert-murdoch-phone-hacking-trial
@@ -107,7 +114,7 @@ And the Old Bailey Online uses the format:
 
 http://www.oldbaileyonline.org/browse.jsp?ref=OA16780417
 
-What we learn from these examples is that a combination of semantic description and data elements make for consistent and predictable data structures that are readable both by humans and machines. Transferring this to your stuff makes it easier to browse, to search, and to query using both the standard tools provided by operating systems and by the more advanced tools Library Carpentry will cover.
+What we learn from these examples is that a combination of semantic description and data elements make for consistent and predictable data structures that are readable both by humans and machines. Transferring this to your stuff makes it easier to browse, to search, and to query.
 
 In practice, the structure of a good archive might look something like this:
 
@@ -118,7 +125,7 @@ A series of sub-directories such as *'events'*, *'data'*, *'projects'* et cetera
 Within these directories are series of directories for each event, dataset or project. Introducing a naming convention here that includes a date element keeps the information organised without the need for subdirectories by, say, year or month.
 
 All this should help you remember something you were working on when you come back to it later (call it real world preservation).
-The crucial bit for our purposes, however, is the file naming convention you choose. The name of a file is important to ensuring it and its contents are easy to identify. 'Data.xslx' doesn’t fulfil this purpose. A title that describes the data does. And adding dating convention to the file name, associating derived data with base data through file names, and using directory structures to aid comprehension strengthens those connection.
+The crucial bit for our purposes, however, is the file naming convention you choose. The name of a file is important to ensuring it and its contents are easy to identify. *'Data.xslx'* doesn’t fulfil this purpose. A title that describes the data does. And adding dating convention to the file name, associating derived data with base data through file names, and using directory structures to aid comprehension strengthens those connection.
 
 Key Points
 ----------

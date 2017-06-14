@@ -14,9 +14,9 @@ This Library Carpentry lesson introduces librarians to working with data. At the
 Data
 ----
 
-We make decisions every day.  Sometimes these are very small ones that don't require much consideration.  But in professional life they are often key to our roles and the users we are trying to help.  There are many aspects to decision making that we always try to take into account.  What's the ethical thing to do, is it legal, is it possible?  But do we always make decisions based upon clear evidence and data?  Think of some example library-based decisions:
+We make decisions every day.  Sometimes these are very small ones that don't require much consideration.  But in professional life they are often key to our roles and the users we are trying to help.  There are many aspects to decision making that we always try to take into account.  What's the ethical thing to do? Is it legal? Is it possible?  Can we afford it?  But do we always make decisions based upon clear evidence and data?  Think of some example library-based decisions:
 
-- amount spent on different stock;
+- amount spent on different types of stock;
 - fines for overdue items;
 - charges for certain type of stock;
 - staff levels in a library;
