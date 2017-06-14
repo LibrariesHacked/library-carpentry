@@ -20,7 +20,7 @@ We make decisions every day.  Sometimes these are very small ones that don't req
 - fines for overdue items;
 - charges for certain type of stock;
 - staff levels in a library;
-- collection days to move items between branches;
+- van routes and frequencies to move items between branches;
 - what stock to have in different libraries;
 - opening hours;
 
