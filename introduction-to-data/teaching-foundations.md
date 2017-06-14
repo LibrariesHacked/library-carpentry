@@ -22,14 +22,14 @@ Jargon Busting
 | Data mining | The practice of examining large pre-existing databases in order to generate new information. |
 | Data protection | Data protection principles govern how your personal information is used by organisations, businesses or the government. |
 
-We'll  spend some time on some foundation level stuff - a combination of best practice and generic skills.
+We'll spend some time on a combination of best practice and generic skills.
 
 The Computer is Stupid
 ----------------------
 
 This does not mean that the computer isn’t useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
 
-This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. So keep in mind as we go along that if you find an error message frustrating, it isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
+This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. It isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
 
 Why take an automated or computational approach?
 ------------------------------------------------
@@ -39,7 +39,7 @@ Otherwise known as the 'why not do it manually?' question. To start with, I'm no
 a) I don't know how to automate the task or;
 b) I’m unlikely to repeat the task and estimate that automating it would take longer
 
-However once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/) 
+However, once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/).
 
 The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
 
