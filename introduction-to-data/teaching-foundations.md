@@ -18,7 +18,7 @@ Jargon Busting
 | Open data | Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike. |
 | Aggregation | A process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis. |
 | Anonymisation |  The process of turning data into a form which does not identify individuals and where identification is not likely to take place. |
-| Regular expression | A sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. |
+| Regular expression | A sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.  Instructor: show some examples of regular expressions. |
 | Data mining | The practice of examining large pre-existing databases in order to generate new information. |
 | Data protection | Data protection principles govern how your personal information is used by organisations, businesses or the government. |
 
