@@ -54,6 +54,13 @@ GitHub hosts open-licensed projects … and allows any user to fork any public p
 
 *Instructor: Browse a GitHub repository, paying attention to settings and options such as licensing and tagging.*
 
+- Tagging repositories
+- Adding a website and description
+- Viewing data (CSV/GeoJSON/PDF)
+- Viewing Licenses
+- Viewing History
+- Watching and Starring
+
 
 Source Materials
 ----------------
