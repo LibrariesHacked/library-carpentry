@@ -6,7 +6,7 @@ GIS data
 
 ### Points, lines and polygons
 
-When dealing with geo-spatial data, this will normally be in the form of Points, Lines, and Polygons, and associated attributes.
+When dealing with geo data, this will normally be in the form of Points, Lines, Polygons, and associated attributes.
 
 | Data type | Description |
 | --------- | ----------- |
@@ -70,12 +70,12 @@ Geocoding and reverse geocoding are ways of matching address and location data w
 ### Demo: Geocode a batch of addresses
 
 1. Go to [Batch Geocoder](https://www.doogal.co.uk/BatchGeocoding.php)
-2. Copy data from file [somersetlibraryaddresses.csv](/data/SomersetLibraryAddresses.csv) into input field.
+2. Copy data from file [https://github.com/DaveBathnes/GIS-Tutorial/data/somersetlibraryaddresses.csv](SomersetLibraryAddresses.csv) into input field.
 3. Press geocode.
 
 ### Demo: Reverse geocode a batch of coordinates
 1. Go to [Batch reverse geocoder](https://www.doogal.co.uk/BatchReverseGeocoding.php)
-2. Copy data from file [/data/SomersetLibraryCoordinates.csv](/data/SomersetLibraryCoordinates.csv)
+2. Copy data from file [https://github.com/DaveBathnes/GIS-Tutorial/data/SomersetLibraryCoordinates.csv](SomersetLibraryCoordinates.csv)
 3. Press reverse geocode.
 
 ### GIS Software

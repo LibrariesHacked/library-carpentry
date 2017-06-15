@@ -24,7 +24,7 @@ In this exercise we are going to analyse library member locations.
 - In Carto, login and navigate to the Datasets page and select to **'Add new dataset'**.
 - Use the URL for the Newcastle Member data with postcode areas: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/newcastle_members_postcodeareas.csv**
 - We'll import the data as before.  We're also going to rename the dataset to '**members**' (to make it simpler!).
-- The we'll repeat the process and add the postcode areas: https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcode_areas.geojson
+- The we'll repeat the process and add the postcode areas: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcode_areas.geojson**
 - We'll rename this dataset to **'areas'**.
 
 We could create a map showing the postcode areas in the UK.  However, we want some member data to make the map meaningful.
@@ -37,7 +37,7 @@ SELECT *,
 FROM areas
 ```
 
-This is adding an additional column of data to each postcode area.  It's adding a count of members for the postcode area.
+This is adding an additional column of data to each postcode area: a count of library members who live in that area.
 
 - On the dataset menu select to **'Create Dataset from query'**.  Rename this new dataset to **'area_members'**.
 - From the new Dataset create a map.

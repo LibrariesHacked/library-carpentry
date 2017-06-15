@@ -6,7 +6,7 @@ This is our third module, on mapping library data.
 Introduction
 ------------
 
-Everything happens somewhere. Geographic data is becoming increasingly important, because there is so much we can learn from data about locations.  Examples include:
+Everything happens somewhere. Geography data is becoming increasingly important, because there is so much we can learn from data *about* locations.  Examples include:
 
 - deprivation statistics and need of areas which include: income, education, work, services;
 - population density and rural/urban split;
@@ -18,16 +18,15 @@ Everything happens somewhere. Geographic data is becoming increasingly important
 
 Not only is geographic intelligence powerful and essential to data analysis, but it is fun! (Everyone loves maps...)
 
-
 Location vs. Place
 ------------------
 
-What is the difference between location and place?  We tend to use 'Location' when talking about exact defined points or areas.  For example, a local government boundary, or the location of a library.  'Place' is normally more indefinable.  It may be 'the North', or 'Abroad', or 'Home'.
+What is the difference between location and place?  We tend to use *'Location'* when talking about exact defined points or areas.  For example, a local government boundary, or the location of a library.  *'Place'* is usually more indefinable.  It may be 'the North', or 'Abroad', or 'Home'.
 
 Some examples
 -------------
 
-Geographic data is important for analysis but maps are also a great (and often beautiful) way of displaying data.  Much like with graphs though there are many pitfalls.  Let's have a quick look at a couple of maps being used to display the same information but in very different ways.
+Geographic data is important for analysis but maps are also a great (and often beautiful) way of displaying data.  Much like with graphs though, there are many pitfalls.  Let's have a quick look at a couple of maps being used to display the same information but in very different ways.
 
 [BBC Election 2017 in maps](http://www.bbc.co.uk/news/election-2017-40176349)
 
