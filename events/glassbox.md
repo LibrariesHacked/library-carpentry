@@ -26,6 +26,8 @@ Schedule
 
 **Breaks**: We can take a break whenever anyone needs to.  There are a lot of different sections, so there will always be oportunities to get some air or refill on tea.
 
+Twitter: #librarycarpentry, @GlassBoxTaunton
+
 ### Workshop 1. Data Introduction
 
 | Time | Description |
