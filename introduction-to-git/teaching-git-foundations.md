@@ -4,7 +4,6 @@ Teaching.  Git Foundations
 Teaching
 --------
 
-
 Git is full of terms that can seem odd.  We'll demonstrate the GitHub web interface, and show some of the tools and the command line options.  But first, let's look at some of those terms. In no particular order:
 
 | Term | Description |
@@ -16,7 +15,7 @@ Git is full of terms that can seem odd.  We'll demonstrate the GitHub web interf
 | Commit | A commit, or "revision", is an individual change to a file (or set of files).  Commits usually contain a commit message which is a brief description of what changes were made. |
 | Merge | Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. |
 | Pull | Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date. |
-Pull Request Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.
+| Pull Request | Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. |
 | Push | Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub. |
 | Remote | This is the version of something that is hosted on a server, most likely GitHub. It can be connected to local clones so that changes can be synced |
 | Diff | A diff is the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit. |
