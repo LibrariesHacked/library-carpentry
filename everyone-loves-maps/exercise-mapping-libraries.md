@@ -32,6 +32,8 @@ Everyone should now have a Carto account, or ideally be near someone who does.  
 Instructor Demo
 ---------------
 
+This exercise will be demoed by the instructor so there's no need to perform the steps (unless working through at home).  The following exercise (attendee exercise) will be completed afterwards by all attendees.
+
 - Once logged in, on the Menu navigate to **Maps > Your Datasets**.
 - Select **New Dataset**.
 - In the URL field enter: **https://github.com/LibrariesHacked/library-carpentry/raw/master/data/libraries.csv**
