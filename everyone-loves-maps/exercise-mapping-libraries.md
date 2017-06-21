@@ -12,7 +12,7 @@ Data files
 
 For this exercise we will be using two files.
 
-- [Libraries taskforce libraries dataset](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/taskforce.csv).  A listing of libraries in England, including their address and postcode.  Released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). This must be acknowledged as: *Contains public sector information licensed under the Open Government Licence v3.0.*
+- [Libraries taskforce libraries dataset](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/libraries.csv).  A listing of libraries in England, including their address and postcode.  Released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). This must be acknowledged as: *Contains public sector information licensed under the Open Government Licence v3.0.*
 - [UK postcodes](https://github.com/LibrariesHacked/library-carpentry/raw/master/data/postcodes_england.csv]).  A full list of postcodes in England, taken from 'Code Point Open', an [Ordnance Survey open data product](https://www.ordnancesurvey.co.uk/business-and-government/licensing/using-creating-data-with-os-products/os-opendata.html).  This must be acknowledged as: *Contains OS data © Crown copyright and database right 2017. Contains Royal Mail data © Royal Mail copyright and Database right 2017. Contains National Statistics data © Crown copyright and database right 2017.*
 
 There should be no need to download these files.  They're held online so we'll let Carto access them.
