@@ -47,7 +47,7 @@ The following three steps may already have been completed by the instructor, as 
 
 We now have two datasets loaded.  One with all the libraries, including their postcodes.  Another with all the postcodes in England, including their coordinates.  We need to merge postcode co-ordinates into the libraries dataset, so we have a dataset of libraries with co-ordinates.  Before we do that we can *index* the postcodes dataset. This isn't always necessary but considering it's so large we can use indexes to make it quicker to find data.
 
-- Go into the **postcodes_england** dataset.  Select at the bottom the option to show **SQL**.
+- Return to the Data menu and go into the **postcodes_england** dataset.  Select at the bottom the option to show **SQL**.
 - Remove the current text shown in the SQL editor and replace with:
 
 ```SQL
