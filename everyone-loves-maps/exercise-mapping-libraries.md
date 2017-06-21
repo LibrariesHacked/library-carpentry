@@ -20,14 +20,14 @@ There should be no need to download these files.  They're held online so we'll l
 Task
 ----
 
-In this task we are going to take a dataset published by the Libraries Taskforce on [30th March 2017](https://librariestaskforce.blog.gov.uk/2017/03/30/library-data-the-story-so-far-and-next-steps/).  This includes addresses and postcodes of all libraries in England.  We will load this into the online mapping tool, Carto.  We'll then use postcodes locations, provided by Ordnance Survey, to **'geocode'** these libraries.  Finally, we'll plot them on a web map, and you'll have a chance to play around with how they're displayed.
+In this task we are going to take a dataset published by the Libraries Taskforce on [30th March 2017](https://librariestaskforce.blog.gov.uk/2017/03/30/library-data-the-story-so-far-and-next-steps/).  This includes addresses and postcodes of all libraries in England.  We will load this into the online mapping tool, Carto.  We'll then use postcode locations, provided by Ordnance Survey, to **'geocode'** these libraries.  Finally, we'll plot them on a web map, and you'll have a chance to play around with how they're displayed.
 
 - In your browser navigate to [https://carto.com/](https://carto.com/).
 - In the Menu navigate to **Signup** or navigate to [https://carto.com/signup/](https://carto.com/signup/).
 - You'll notice you can sign up using your GitHub account.  Feel free to use the one you created earlier, or fill in the full details and create a new account.
 - When prompted for additional details, fill these out if you wish to.  There's no need to provide a phone number.
 
-Everyone should now have a Carto account, or ideally be near someone who does.  We'll run through a demo of uploading a dataset and mapping it.  Carto provides a free option so there should be no need to enter any payment details or sign up for a paid account.  These are expensive, but could be something your organisation considers as it offers access to some powerful data analytics and extra data storage.
+Everyone should now have a Carto account, or ideally be near someone who does.  We'll run through a demo of uploading a dataset and mapping it.  Carto provides a free option so there should be no need to enter any payment details or sign up for a paid account.  These are expensive, but could be something your organisation considers, as paid accounts have powerful data analytics functions and extra data storage.
 
 Instructor Demo
 ---------------
