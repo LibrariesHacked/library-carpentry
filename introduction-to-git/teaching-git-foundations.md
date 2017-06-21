@@ -60,7 +60,6 @@ GitHub hosts open-licensed projects … and allows any user to fork any public p
 - Viewing History
 - Watching and Starring
 
-
 Source Materials
 ----------------
 

@@ -35,6 +35,7 @@ Wikipedia: [Spatial Reference System](https://en.wikipedia.org/wiki/Spatial_refe
 > A spatial reference system (SRS) or coordinate reference system (CRS) is a coordinate-based local, regional or global system used to locate geographical entities.
 
 | Reference System | Coordinates used | Who by |
+| ---------------- | ---------------- | ------ |
 | British National Grid | Eastings/Northings | Ordnance Survey |
 | World Geodetic System 84 | Longitude/Latitude | GPS |
 
@@ -52,9 +53,9 @@ There are many different formats for storing geo data.  These are a few of them.
 
 | Format | Description | Example |
 | ------ | ----------- | ------- |
-| GeoJSON | JavaScript Object Notation (JSON) style geo data. | [/data/Somerset School Catchment Areas 2014-15.geojson](Somerset School Catchment Areas) |
-| Shapefiles | Format developed by ESRI for storing geospatial data.  Rememeber that these are always distributed in more than one file!  | [/data/]() | 
-| KML | XML type format for storing geospatial data. Used by Google Earth and Google fusion tables. | [SomersetLibraries](/data/SomersetLibraries.kml) |
+| GeoJSON | JavaScript Object Notation (JSON) style geo data. |  |
+| Shapefiles | Format developed by ESRI for storing geospatial data.  Rememeber that these are always distributed in more than one file!  |  |
+| KML | XML type format for storing geospatial data. Used by Google Earth and Google fusion tables. |  |
 
 Instructor: have a quick look at examples of these data types.
 

@@ -22,7 +22,7 @@ Schedule
 
 **WiFi**: Guest WiFi is available.  Once connected, if you have a LibrariesWest account, use your library login to get connected to the Wifi.  If not, please ask us for a guest account.
 
-**Labels**: Please collect a name label!  We are also encouraging people to choose a 'Data level' sticker based upon their experience with library data: **beginner* (maybe you don't use data much at all), *intermediate* (you use data quite a bit but you'd like to improve), *expert* (you've used data regularly and feel like you know your way around data). Don't be afraid to pick up an *expert* sticker!  We'll spend some time during introductions discussing the different experiences in the room.
+**Labels**: Please collect a name label!  Also please choose a level of working with data you feel you're at: **beginner* (maybe you don't use data much at all), *intermediate* (you use data quite a bit but you'd like to improve), *expert* (you've used data regularly and feel like you know your way around data). Don't be afraid to choose *expert*!  We'll spend some time during introductions discussing the different experiences in the room.
 
 **Breaks**: We can take a break whenever anyone needs to.  There are a lot of different sections, so there will always be oportunities to get some air or refill on tea.
 
